@@ -43,7 +43,7 @@ używających biblioteki Result.
 
 %package devel
 Summary:	Compatibility Result module for OCaml - development part
-Summary(pl.UTF-8):	Moduł zgodności Result dla OCamla- cześć programistyczna
+Summary(pl.UTF-8):	Moduł zgodności Result dla OCamla - część programistyczna
 Group:		Development/Libraries
 Requires:	%{name} = %{version}-%{release}
 %requires_eq	ocaml
