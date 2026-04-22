@@ -11,7 +11,7 @@ Summary:	Compatibility Result module for OCaml
 Summary(pl.UTF-8):	Moduł zgodności Result dla OCamla
 Name:		ocaml-result
 Version:	1.5
-Release:	1
+Release:	2
 License:	BSD
 Group:		Libraries
 #Source0Download: https://github.com/janestreet/result/releases
